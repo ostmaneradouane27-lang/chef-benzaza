@@ -1,0 +1,6 @@
+{
+  "name": "ECOLE CHEF BENZAZA",
+  "description": "École de formation professionnelle Chef Benzaza à Oran : Cuisine, Pâtisserie, Pizza, Coiffure & Informatique. Formations certifiantes, boutique artisanale et inscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
